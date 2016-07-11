@@ -36,7 +36,7 @@ setup(
     description='A platform for generating dockerized mysql data extracts.',
     long_description=README,
     author='Troy de Freitas',
-    url='https://github.com/dosemedia/hume',
+    url='https://github.com/dosemedia/excerpt',
     install_requires=INSTALL_REQUIRES,
     zip_safe=False,
     keywords='excerpt',
